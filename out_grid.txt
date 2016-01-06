@@ -1,0 +1,23 @@
+
+=========== Atom List ============
+NAtoms :   2
+NAtomic Type :   1
+
+Element  Number
+   O        2
+
+Input orientation:
+Element  TypeIndex    Coordination
+-------------------------------------------
+  O          1        0.000000    0.000000    0.377945
+  O          1        0.000000    0.000000   -0.377945
+
+
+ =========== Grid Data per Atom (Initiazation Parameter) ===========
+   Element        Ngrid
+      O            1150
+      O            1150
+
+  Total Number of Grid Points:         2300
+su:         11.1364455333
+exact:         11.1366559937
